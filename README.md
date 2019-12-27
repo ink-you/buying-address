@@ -1,3 +1,3 @@
 # buying-address
 
-what was plan?
+what was the plan?
