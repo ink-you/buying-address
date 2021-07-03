@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
-ruby '2.3.5'
+ruby '2.5.7'
 
-gem 'rails', '4.2.11'
+gem 'rails', '4.2.11.3'
 gem 'sass-rails', '~> 5.0'
 gem 'uglifier', '>= 1.3.0'
 gem 'coffee-rails', '~> 4.1.0'
@@ -25,7 +25,7 @@ group :test do
 end
 
 # Use sqlite3 as the database for Active Record
-gem 'sqlite3'
+gem 'sqlite3', '~> 1.3.0'
 
 # See https://github.com/sstephenson/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
