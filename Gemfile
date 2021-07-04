@@ -31,6 +31,8 @@ end
 
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3', '~> 1.3.0'
+# Use Puma as the app server
+gem 'puma', '~> 3.7'
 
 # See https://github.com/sstephenson/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
